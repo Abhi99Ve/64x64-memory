@@ -1,1 +1,1 @@
-# 64x64-memory
+# 64-64-memory
